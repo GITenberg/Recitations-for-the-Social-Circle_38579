@@ -1,0 +1,28 @@
+_repo: Recitations-for-the-Social-Circle_38579
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Harvey, James Clarence
+    alias: Harvey, J. Clarence (James Clarence)
+    birthdate: 1859
+    deathdate: 1917
+    gutenberg_agent_id: '39544'
+    url: http://www.gutenberg.org/2009/agents/39544
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2012-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38579'
+  lccn: '12004591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Recitations'
+title: Recitations for the Social Circle. Selected and Original
+url: http://www.gutenberg.org/ebooks/38579
